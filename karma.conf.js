@@ -11,12 +11,6 @@ module.exports = function(config) {
       browser: 'Chrome',
       browser_version: '73.0'
     },
-    // BS_ChromeAndroid: {
-    //   base: 'BrowserStack',
-    //   device: 'Samsung Galaxy S8',
-    //   os_version: '7.0',
-    //   real_mobile: true
-    // },
     BS_Firefox: {
       base: 'BrowserStack',
       os: 'Windows',
